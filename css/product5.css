@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: manasans;
+    src: url(../font/MonaSans-Regular.ttf);
+    font-style: normal;
+}
+body{
+    background-color: #252831;
+    color: white;
+    font-family: manasans;
+}
+.card{
+    /* border: 1px solid #2A2F40; */
+    background-color: #2A2F40;
+    width: 660px;
+    height: 380px;
+    margin: 170px auto;
+}
+.image{
+    /* border: 1px solid rgb(230, 215, 215); */
+    width: 48%;
+    height: 100%;
+    background-color: #FF6D39;
+    border-top-right-radius: 120%;
+    border-bottom-right-radius: 120%;
+    float: left;
+}
+.img1{
+    padding-top: 38px;
+    margin-left: -100px;
+    width: 140%;
+    height: auto;
+}
+.data{
+    /* border: 1px solid rgb(34, 17, 185); */
+    width: 52%;
+    height: 100%;
+    background-color: #2A2F40;
+    line-height: 40px;
+    float: left;
+    padding-left: 25px;
+    
+}
+.search{
+    /* border: 1px solid rgb(34, 17, 185); */
+    width: 100%;
+    height: 32%;
+    padding-top: 20px;
+}
+.comname{
+    /* border: 1px solid rgb(34, 17, 185); */
+    color: #FF6D39;
+    width: 60%;
+    height: 100%;
+    float: left;
+}
+.symbol{
+    /* border: 1px solid rgb(34, 17, 185); */
+    color: white;
+    height: 100%;
+    
+    word-spacing: 25px;
+    float: left;
+}
+h4{
+    color: rgb(211, 209, 209);
+}
+.ss{
+    /* border: 1px solid rgb(169, 228, 92); */
+    width: 100%;
+    height: 40px; 
+}
+.pp{
+    margin-left: 30px;
+    text-decoration: line-through red;
+}
+.size{
+    /* border: 1px solid rgb(169, 228, 92); */
+    width: 100%;
+    height: 40px;
+    color: rgb(183, 180, 180);
+}
+.size h6{
+    word-spacing: 30px;
+}
+.colbu{
+    /* border: 1px solid rgb(169, 228, 92); */
+    width: 100%;
+    height: 40px;
+    color: rgb(183, 180, 180);
+    
+}
+.col{
+    /* border: 1px solid rgb(110, 146, 63); */
+    width: 80px;
+    height: 100%;
+    float: left;
+}
+.but{
+    /* border: 1px solid rgb(159, 62, 143); */
+    width: 50%;
+    height: 100%;
+    float: left;
+    padding-top: 15px;    
+}
+.pe{
+    /* border: 1px solid rgb(169, 228, 92); */
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+    float: left;
+    background-color: palegreen;
+}
+.bla{
+    /* border: 1px solid rgb(169, 228, 92); */
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+    float: left;
+    margin-left: 20px;
+    background-color: #0f0c0c;
+}
+.blu{
+    /* border: 1px solid rgb(169, 228, 92); */
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+    float: left;
+    margin-left: 20px;
+    background-color: blue;
+
+}
+.red{
+    /* border: 1px solid rgb(169, 228, 92); */
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+    float: left;
+    margin-left: 20px;
+    background-color: red;
+}
+.payment{
+    /* border: 1px solid rgb(48, 228, 156); */
+    width: 100%;
+    height: 30px; 
+    font-size: 12px;    
+}
+.buy{
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+}
+.add{
+    margin-left: 25px;
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+}

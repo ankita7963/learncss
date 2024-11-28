@@ -1,0 +1,169 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: manasans;
+    src: url(../font/MonaSans-Regular.ttf);
+    font-style: normal;
+}
+
+body {
+    background-color: white;
+    font-family: manasans;
+}
+
+.main {
+    border: 1px solid white;
+    background-color: #00A58F;
+    width: 935px;
+    height: 595px;
+    margin: 70px auto;
+}
+.mainbox{
+    /* border: 2px solid black; */
+    width: 780px;
+    height: 450px;
+    margin-left: 75px;
+    margin-top: 85px;
+    margin-right: 75px;
+}
+.box1{
+    /* border: 1px solid red; */
+    background-color: #008A7A;
+    width: 75px;
+    height: 450px;
+    float: left;
+}
+.data{
+    /* border: 1px solid red; */
+    background-color: #005E5E;
+    width: 700px;
+    height: 450px;
+    float: left;
+}
+
+
+
+.mainbox h4{
+    color: white;
+    text-align: center;
+}
+.box1{
+    color: #005E5E;
+    text-align: center;
+    padding-top: 10px;
+}
+.box1 .x4x{
+    color: white;
+    padding-top: 300px;
+}
+
+.tital{
+    /* border: 1px solid rgb(59, 210, 54); */
+    width: 60%;
+    height: 410px;
+    float: left;
+}
+.name{
+    /* border: 1px solid red; */
+    color: white;
+    width: 100%;
+    height: 15%;
+    padding-top: 23px;
+    font-size: 12px;
+    word-spacing: 58px;
+    padding-left: 8px;
+    float: left;
+}
+.data2{
+    /* border: 1px solid red; */
+    color: white;
+    width: 100%;
+    height: 85%;
+    float: left;
+    padding: 10px 25px;
+}
+.dat1{
+    width: 100%;
+    height: 40%;
+}
+.dat2{
+    width: 80%;
+    height: 25%;
+    font-size: 12px;
+    color: #76a7a9;
+}
+.dat3{
+    /* border: 1px solid gold; */
+    width: 80%;
+    height: 22%;
+}
+.email {
+    color: #76a7a9;
+    background-color: #006D70;
+    width: 192px;
+    padding: 7px 7px;
+    text-align: center;
+    font-size: 12px;
+    border-radius: 12px;
+}
+.signup {
+    background-color: #008B79;
+    color: white;
+    width: 192px;
+    padding: 7px 7px;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 10px;
+    border-radius: 12px;
+}
+.dat4{
+    /* border: 1px solid bisque; */
+    width: 100%;
+    height: 13%;
+}
+.che22{
+    width: 8%;
+    height: 100%;
+    margin-top: 12px;
+    color: #008B79;
+    float: left;  
+}
+.ghg{
+    width: 90%;
+    height: 100%;
+    font-size: 12px;
+    color: #76a7a9;
+    margin-top: 12px;
+    float: left;
+    
+    
+}
+.tital2{
+     /* border: 1px solid red; */
+     color: white;
+     width: 40%;
+     height: 410px;
+     float: left; 
+}
+.app{
+    /* border: 1px solid red; */
+    color: white;
+    width: 100%;
+    height: 15%;
+    padding-top: 23px;
+    font-size: 10px;
+    word-spacing: 5px;
+    padding-left: 90px;
+}
+.im22{
+    width: 100%;
+    height: 85%;
+}
+img{
+    width: 100%;
+    height: 100%;
+}

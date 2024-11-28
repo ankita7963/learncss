@@ -1,0 +1,142 @@
+*{margin: 0;
+    padding: 0;}  
+.product{
+    border: 2px solid black;
+    width: 670px; 
+    height: 600px;
+    margin: 70px 400px 30px;
+}
+
+.pro1{
+    border: 2px solid black;
+    width: 270px; 
+    height: 250px;
+    margin-top: 70px;
+    margin-left: 50px;
+    float: left;
+}
+.pro1a{
+    border: 2px solid black;
+    width: 270px; 
+    height: 250px;
+    margin-top: 70px;
+    margin-right: 50px;
+    float: right;
+}
+.pro2{
+    border: 2px solid black;
+    width: 270px; 
+    height: 250px;
+    margin-left: 50px;
+    float: left; 
+}
+
+.pro2a{
+    border: 2px solid black;
+    width: 270px; 
+    height: 250px;
+    margin-right: 50px;
+    float: right;
+}
+
+.box1{
+    border: 2px solid orangered;
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    float: left;
+    margin-left: 10px;
+}
+.box0{
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 20px;
+}
+p{color: brown;}
+h2{color: brown;}
+
+
+
+
+
+/* .product2{
+    border: 2px solid black;
+    width: 1000px; 
+    height: 680px;
+    margin: 70px 250px 30px;
+}
+#bo1{border: 2px solid black;
+     width: 230px; 
+     height: 198px;
+     float: left; 
+     border-radius: 12%;
+     margin-left: 82px;
+     margin-top: 105px;}
+#bo2{border: 2px solid black;
+     width: 230px; 
+     height: 130px;
+     border-radius: 12%;
+     float: left;
+     margin-top: 125px;
+     }
+#bo3{border: 2px solid black;
+     width: 230px; 
+     height: 110px;
+     float: left; 
+     border-radius: 12%;
+     margin-left: 82px;
+     margin-top: 50px;}
+#bo1b{
+        border: 2px solid black;
+        width: 190px; 
+        height: 100px;
+        float: left; 
+        border-radius: 12%;
+        margin-left: 199px;
+        margin-top: 105px;
+    }
+    #bo2b{
+        border: 2px solid black;
+        width: 190px; 
+        height: 100px;
+        float: left; 
+        border-radius: 12%;
+        margin-left: 199px;
+        margin-top: 27px;
+    }
+    #bo3b{
+        border: 2px solid black;
+        width: 190px; 
+        height: 100px;
+        float: left;
+        border-radius: 12%;
+        margin-left: 199px;
+        margin-top: 205px;
+    }    
+#bo1a{
+    border: 2px solid black;
+    width: 190px; 
+    height: 100px;
+    float: left; 
+    border-radius: 12%;
+    margin-left: 62px;
+    margin-top: 60px;   
+}
+#bo2a{
+    border: 2px solid black;
+    width: 190px; 
+    height: 100px;
+    float: left; 
+    border-radius: 12%;
+    margin-left: 62px;
+    margin-top: 25px;
+}
+#bo3a{
+    border: 2px solid black;
+    width: 190px; 
+    height: 100px;
+    float: left; 
+    border-radius: 12%;
+    margin-left: 62px;
+    margin-top: 220px;
+} */

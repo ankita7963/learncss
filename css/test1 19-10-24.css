@@ -1,0 +1,176 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+@font-face {
+    font-family: manasans;
+    src: url(../font/MonaSans-Regular.ttf);
+    font-style: normal;
+}
+body{
+    background-color: #289ba1;
+    font-family: manasans;
+}
+.card{
+    /* border: 1px solid red; */
+    background-color: #F5F3F4;
+    width: 400px;
+    height: 650px;
+    margin: 50px auto;
+    padding: 23px 23px;
+}
+
+
+
+
+.cart{
+    /* border: 1px solid red; */
+    background-color: #F5F3F4;
+    width: 100%;
+    height: 50px; 
+    padding-top: 12px;
+    font-size: 18px;
+
+}
+.arr{
+    color: #289ba1;
+    float: left;
+}
+.arr1{
+    color: #289ba1;
+    float: right;
+}
+
+
+.image{
+    /* border: 1px solid red; */
+    width: 100%;
+    height: 200px; 
+}
+img{
+    width: 100%;
+    height: 197px;
+}
+.image2{
+    /* border: 1px solid red; */
+    width: 100%;
+    height: 50px; 
+}
+.image2 img{
+    width: 100%;
+    height: 100%;
+}
+.box1{
+    /* border: 1px solid red; */
+    width: 20%;
+    height: 50px;
+    float: left;
+}
+.box2{
+    /* border: 1px solid rgb(125, 104, 104); */
+    width: 20%;
+    height: 50px;
+    float: left;
+}
+.box3{
+    border: 1px solid red;
+    width: 20%;
+    height: 50px;
+    float: left;
+}
+.box4{
+    border: 1px solid red;
+    width: 20%;
+    height: 50px;
+    float: left;
+}
+.box5{
+    border: 1px solid red;
+    width: 20%;
+    height: 50px;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.data{
+    /* border: 1px solid red; */
+    background-color: #F5F3F4;
+    width: 100%;
+    height: 50%;  
+    text-align: center;  
+}
+h1{
+    font-size: 18px;
+    margin-top: 15px;
+}
+h4{
+    color: rgb(165, 164, 164);
+    font-weight: 5px;
+    font-size: 13px;
+    margin-top: 5px;
+}
+.xx{
+    /* border: 1px solid rgb(69, 212, 37); */
+    width: 100%;
+    height: 85px;
+    padding-top: 15px;
+}
+.xx span{
+    font-weight: 25px;    
+}
+.yello{
+    color: #289ba1;
+    padding-top: 10px;
+    margin-left: 0;
+}
+.grae{
+    color: gray;
+    margin-left: 0;
+}
+h6{
+    text-align: left;
+}
+.size{
+    /* border: 1px solid rgb(69, 212, 37); */
+    width: 100%;
+    height: 65px; 
+    padding-top: 15px;
+}
+h6{
+    color:rgb(165, 164, 164) ;
+    padding-left: 2px;
+}
+.nobox{
+    word-spacing: 20px;
+    font-size: 14px;
+    color: rgb(165, 164, 164);
+    padding-top: 6px;
+}
+.payment{
+    /* border: 1px solid rgb(69, 212, 37); */
+    width: 100%;
+    height: 55px;
+    margin-top: 25px;
+}
+.pay{
+    background-color: #289ba1;
+    color: white;
+    text-decoration: none;
+    padding: 12PX 75PX;
+    font-size: 15PX;
+    margin-left: 25px;
+    display: inline-block
+}

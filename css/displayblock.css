@@ -1,0 +1,25 @@
+.block{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin: 50px;
+    padding: 25px;
+}
+.inline{
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+    /* padding-top: 50px;
+    padding-bottom: 50px; */
+}
+.btn{
+    display: inline-block;
+    width: 95px;
+    height: 25px;
+    background-color: blueviolet;
+    color: white;
+}
+.btn1{
+    display: none;
+}

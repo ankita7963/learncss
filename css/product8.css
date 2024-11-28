@@ -1,0 +1,322 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+@font-face {
+    font-family: manasans;
+    src: url(../font/MonaSans-Regular.ttf);
+    font-style: normal;
+}
+body{
+    background-color: white;
+    font-family: manasans;
+}
+.card{
+    border: 1px solid #CD9B78;
+    background-color: #CD9B78;
+    width: 1350px;
+    height: 680px;
+    margin: 8px auto;
+    padding: 60px 30px;
+}
+
+
+
+
+.main{
+    border: 1px solid #CD9B76;
+    background-color: #FAE0D1;
+    width: 43%;
+    height: 100%;
+    float: left;
+    padding: 25px 25px;
+}
+.logo{
+    width: 50%;
+    height: 50%;
+    color: #a29187;
+    font-size: 18px;
+    float: left;
+}
+.image{
+    width: 50%;
+    height: 75%;
+    float: right;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.name{
+    width: 50%;
+    height: 25%;
+    float: left;    
+}
+.name h1{
+    font-size: 65px;
+    color: #7B451F;
+}
+.name h2{
+    color: #D67200;
+    font-size: 24px;
+    font-weight: 25px;
+}
+.data{
+    width: 70%;
+    height: 20%;
+}
+.pxx{
+    color: #7f6c62;
+    float: left;
+    margin-bottom: 25px;
+    text-align: justify;
+}
+.web{
+    color: #7B451F ;
+    margin-top: 25px;
+}
+
+
+
+
+
+.box1{
+    border: 1px solid #CD9B76;
+    background-color: #FAE0D1;
+    width: 25%;
+    height: 47%;
+    float: left;
+    margin-left: 45px;
+    padding: 20px 15px;
+}
+.logo1{
+    width: 50%;
+    height: 50%;
+    color: #755f52;
+    font-size: 12px;
+    float: left;
+}
+.image1{
+    width: 50%;
+    height: 75%;
+    float: right;
+}
+.image1 img{
+    width: 100%;
+    height: 100%;
+}
+.name1{
+    width: 50%;
+    height: 25%;
+    float: left;    
+}
+.name1 h1{
+    font-size: 25px;
+    color: #7B451F;
+}
+.name1 h2{
+    color: #D67200; 
+    font-size: 18px;
+    font-weight: 25px;
+}
+.data1{
+    width: 70%;
+    height: 20%;
+}
+.data1 .p1{
+    color: #7f6c62;
+    float: left;
+    font-size: 10px;
+    margin-top: 2px;
+}
+.data1 .web1{
+    color: #7B451F ;
+    font-size: 10px;
+}
+
+
+
+.box2{
+    border: 1px solid #CD9B76;
+    background-color: #FAE0D1;
+    width: 25%;
+    height: 47%;
+    float: left;
+    margin-left: 45px;
+    padding: 20px 15px;
+}
+.logo2{
+    width: 100%;
+    height: 10%;
+    color: #755f52;
+    font-size: 12px;
+    float: right;
+    text-align: right;
+}
+.image2{
+    width: 50%;
+    height: 45%;
+    float: left;
+}
+.image2 img{
+    width: 100%;
+    height: 100%;
+}
+.name2{
+    width: 100%;
+    height: 25%;
+    float: right;
+    text-align: right;
+}
+.name2 h1{
+    font-size: 25px;
+    color: #7B451F;
+}
+.name2 h2{
+    color: #D67200; 
+    font-size: 18px;
+    font-weight: 25px;
+}
+.data2{
+    width: 70%;
+    height: 20%;
+    float: right;
+}
+.data2 .p2{
+    color: #7f6c62;
+    float: right;
+    font-size: 10px;
+    margin-top: 2px;
+    text-align: right;
+}
+.data2 .web2{
+    float: right;
+    color: #7B451F ;
+    font-size: 10px;
+}
+
+
+
+
+.box3{
+    border: 1px solid #CD9B76;
+    background-color: #FAE0D1;
+    width: 25%;
+    height: 47%;
+    float: left;
+    margin-left: 45px;
+    margin-top: 45px;
+    padding: 20px 15px;
+}
+.tital3{
+    height: 25%;
+}
+.name3{
+    width: 80%;
+    color: #755f52;
+    float: left;
+}
+.name3 h1{
+    font-size: 25px;
+    color: #7B451F;
+    text-align: left;
+}
+.name3 h2{
+    color: #D67200; 
+    font-size: 18px;
+    font-weight: 25px;
+    text-align: left;
+}
+.logo3 span{
+    width: 20%;
+    color: #755f52;
+    font-size: 12px;
+}
+.data3{
+    width: 70%;
+    height: 25%;
+}
+.data3 .p3{
+    color: #7f6c62;
+    float: left;
+    font-size: 10px;
+    margin-top: 1px;
+}
+.data3 .web3{
+    color: #7B451F ;
+    font-size: 10px;
+}
+.image3{
+    width: 100%;
+    height: 50%;
+}
+.image3 img{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+
+.box4{
+    border: 1px solid #CD9B76;
+    background-color: #FAE0D1;
+    width: 25%;
+    height: 47%;
+    float: left;
+    margin-left: 45px;
+    margin-top: 45px;
+    padding: 20px 15px;
+}
+.logo4{
+    width: 50%;
+    height: 50%;
+    color: #755f52;
+    font-size: 12px;
+    float: right;
+    text-align: right;
+}
+.image4{
+    width: 50%;
+    height: 75%;
+    float: left;
+}
+.image4 img{
+    width: 100%;
+    height: 100%;
+}
+.name4{
+    width: 50%;
+    height: 25%;
+    float: right;
+    text-align: right;
+}
+.name4 h1{
+    font-size: 25px;
+    color: #7B451F;
+}
+.name4 h2{
+    color: #D67200; 
+    font-size: 18px;
+    font-weight: 25px;
+}
+.data4{
+    width: 70%;
+    height: 20%;
+    float: right;
+}
+.data4 .p4{
+    color: #7f6c62;
+    float: right;
+    font-size: 10px;
+    margin-top: 2px;
+    text-align: right;
+}
+.data4 .web4{
+    float: right;
+    color: #7B451F ;
+    font-size: 10px;
+}

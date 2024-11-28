@@ -1,0 +1,48 @@
+ 
+.box{
+    background-color: rgb(132, 210, 125);
+    width: 100px;
+    height: 150px;
+}
+
+
+.stabox{
+    position: static;
+    left: 180px;
+    top: 200px;
+    
+}
+.relbox{
+    position: relative;
+    left: 130px;
+    top: 50px;
+}
+.absobox{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+
+
+.parentbox{
+    border: 1px solid black;
+    position: relative;
+    width: 150px;
+    height: 180px;
+}
+.reabbox{
+    position: absolute;
+    top: 12px;
+    right: 0px;
+}
+
+.fixbox{
+    position: fixed;
+    right: 50px;
+    bottom: 15px;
+}
+.sticbox{
+    position: sticky;
+    top: 25px;
+}

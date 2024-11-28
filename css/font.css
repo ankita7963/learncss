@@ -1,0 +1,86 @@
+@font-face {
+    font-family: Roboto;
+    src: url(../Font/Roboto-Black.ttf);
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(../Font/Roboto-BlackItalic.ttf);
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(../Font/Roboto-Bold.ttf);
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(../Font/Roboto-BoldItalic.ttf);
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+
+p{
+    color: rgb(204, 57, 57);
+}
+#foShap{
+    font-family: serif;
+}
+
+#foSame{
+    font-family: monospace;
+}
+
+#fooutShap{
+    font-family: sans-serif;
+}
+
+#foex{
+    font-family: fantasy;
+}
+
+#fohum{
+    font-family: cursive;
+}
+
+#golink{
+    font-family: "Dancing Script", cursive;
+
+}
+
+#goimage{
+    font-family: "Shadows Into Light", cursive;
+
+}
+
+#gorobot{
+    font-family: Robot;
+    font-weight: 900;
+    font-style: normal;
+}
+
+#goita{
+    font-family: Roboto;
+    font-weight: 900;
+    font-style: italic;
+}
+
+#goro7{
+    font-family: Robot;
+    font-weight: 700;
+    font-style: normal;
+}
+
+#goita7{
+    font-family: Roboto;
+    font-weight: 700;
+    font-style: italic;
+}
