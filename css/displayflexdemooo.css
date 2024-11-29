@@ -22,12 +22,66 @@ header{
     width: 75%;
     margin: 0 auto;
 }
+.title{
+    font-size: 40px;
+    padding-top: 90px;
+    padding-bottom: 30px;
+}
+.subtitle{
+    font-size: 25px;
+    padding-bottom: 55px;
+}
+.subdata{
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
+.photoimage{
+    width: 90px;
+}
+h4{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.post{
+    background-color: #C40D6C;
+    color: white;
+    display: flex;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 7px 10px;
+    border-radius: 3px;
+}
+.proje{
+    font-size: 20px;
+    padding: 18px;
+    max-width: 165px;
+    margin-top: 55px;
+}
+hr{
+    color: gray;
+    margin-top: 100px;
+}
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+/* header */
 ul{
     list-style-type: none;
 }
@@ -38,10 +92,7 @@ header .container{
 
 
 
-
-
-
-
+/* left */
 .left-header{
     display: flex;
     column-gap: 19px;
@@ -65,20 +116,13 @@ ul li a:hover{
 }
 
 
+
+/* right */
 .right-header{
     display: flex;
     column-gap: 19px;
     align-items: center; 
     font-size: 15px;  
-}
-.post{
-    background-color: #C40D6C;
-    color: white;
-    display: flex;
-    text-decoration: none;
-    font-size: 15px;
-    padding: 7px 10px;
-    border-radius: 3px;
 }
 .post:hover{
     background-color: #980852;
@@ -89,60 +133,41 @@ ul li a:hover{
 
 
 
+/* #hero */
 #hero{
     color: white;
     padding: 250px 0 200px 0;
     background-image: url(../images/client-desktop.jpg);
 }
-h1{
+.herotitle{
     font-size: 45px;
     margin-bottom: 35px;
     max-width: 525px;
 }
-p{
+.herosubtitle{
     font-size: 20px;
     font-weight: 450; 
-    margin-bottom: 55px; 
     max-width: 500px; 
 }
-.proje{
-    font-size: 20px;
-    padding: 18px;
-    max-width: 165px;
-}
 
 
 
-hr{
-    color: gray;
-    margin-top: 120px;
-}
-.taital{
-    max-width: 75%;
-    font-size: 40px;
-}
-
-
-
-#possibilities{
-    padding-top: 110px;
-}
+/* #possibilities */
 .possi3{
     display: flex;
     gap: 60px;
 }
-.possi3 img{
-    width: 90px;
-}
-.possi3 b{
-    font-size: 18px;
-}
 
 
 
-#work{
-    padding-top: 120px;
+/* #work */
+#work .container{
+    display: flex;
 }
 #work img{
+    padding-top: 90px;
     width: 490px;
+}
+.work-data{
+    padding-left: 55px;
 }
